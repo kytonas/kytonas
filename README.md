@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 Goals: open employment opportunities<br>🎲 Hobbies: Watch a film and Collecting hotwheels diecast<br>My Social Media :</p>
+<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 Goals: open employment opportunities<br>🎲 Hobbies: Watch a film and Collecting hotwheels diecast</p>
 
 ###
 
