@@ -10,6 +10,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="right" height="199" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
+
+###
+
 <p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 Goals: open employment opportunities<br>🎲 Hobbies: Watch a film and Collecting hotwheels diecast<br>My Social Media :</p>
 
 ###
@@ -51,12 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img height="199" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
 </div>
 
 ###
