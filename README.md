@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 Goals: open employment opportunities<br>🎲 Hobbies: Watch a film and Collecting hotwheels diecast</p>
+<p align="left">📚 Student at SMK Assalaam Bandung<br>🎯 Goals: open employment opportunities<br>🎲 Hobbies: Watch a film and Collecting hotwheels diecast<br>My Social Media :</p>
 
 ###
 
@@ -55,6 +55,12 @@
 
 ###
 
-<img align="left" height="200" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
+<div align="left">
+  <img height="199" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/kytonas/kytonas/output/snake.svg" alt="Snake animation" />
 
 ###
