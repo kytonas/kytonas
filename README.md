@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="199" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
+<img align="right" height="212" src="https://kokororin.gallerycdn.vsassets.io/extensions/kokororin/vscode-phpfmt/1.2.12/1715535051449/Microsoft.VisualStudio.Services.Icons.Default"  />
 
 ###
 
@@ -21,7 +21,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/ksatria-faikar-81751b254/" target="_blank">
+  <a href="https://www.linkedin.com/in/ksatria-nasywaan/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/nasywaankf/?hl=id" target="_blank">
