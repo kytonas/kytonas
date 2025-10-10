@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello! My name Ksatria Faikar Nasywaan, i'm 18 years old, and a student at a vocational high school specializing in software engineering. I have a passion for creating dynamic and user-friendly web applications.</p>
+<p align="left">Hello! My name Ksatria Faikar Nasywaan, i'm 18 years old, and a student at Universitas Komputer Indonesia, Majoring Informatics Engineer. I have a passion for creating dynamic and user-friendly web applications.</p>
 
 ###
 
